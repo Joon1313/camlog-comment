@@ -1,2 +1,2 @@
-# camlog-comment
+# camlog-comments
 camlog-comment
